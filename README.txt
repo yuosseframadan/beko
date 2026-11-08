@@ -1,15 +1,11 @@
-PIKO — Men's Suits website
+PIKO — Men's Suits (fixed package)
 
-To preview:
-- Open index.html in a browser.
-- Keep the assets folder beside index.html.
-- Internet is only needed for the Google Fonts; the rest of the site is local.
+Upload the contents of this folder to the website's public root, keeping the assets folder beside index.html.
+Do not upload the JPG files separately into the root: they belong inside assets/.
 
-Contact details used:
-Phone: 01067597272
-WhatsApp: +201067597272
-Address: Baltim, Port Said Street, behind the Commerce School, Kafr El Sheikh, Egypt.
+Changes:
+- Corrected the Arabic location label to بلطيم.
+- Updated the footer credit to Developed by NexCode with the supplied NexCode URL.
+- Included all 9 supplied JPG assets in the assets folder, matching the paths referenced by index.html and style.css.
 
-Notes:
-- Facebook share link could not be read automatically, so this first version uses the details and photos supplied in the chat.
-- Replace or update any wording, services, opening hours, and social links after confirming them with the business.
+Keep index.html, style.css, script.js, and the assets folder together.
